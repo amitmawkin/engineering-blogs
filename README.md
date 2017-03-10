@@ -47,6 +47,7 @@
 * Atomic Object https://spin.atomicobject.com/
 * Auth0 https://auth0.com/blog/
 * Autodesk http://cloudengineering.autodesk.com/blog/
+* Avenue Code http://blog.avenuecode.com/
 * AWS https://aws.amazon.com/blogs/aws/
 * Azavea https://www.azavea.com/blog/category/software-development/
 
@@ -69,12 +70,13 @@
 * BloomReach http://engineering.bloomreach.com/
 * Booking.com https://blog.booking.com/
 * Box https://www.box.com/blog/engineering/
-* Boxever http://www.boxever.com/tech-blog
+* Boxever http://www.boxever.com/blog/
 * Brandwatch http://engineering.brandwatch.com/
 * Buzzfeed https://www.buzzfeed.com/techblog
 
 #### C companies
 * Canva https://engineering.canva.com
+* Capgemini https://capgemini.github.io/
 * CenturyLink https://www.ctl.io/developers/blog
 * Cerner http://engineering.cerner.com/
 * Chaps https://blog.chaps.io/
@@ -96,16 +98,17 @@
 * Commercetools https://techblog.commercetools.com/
 * Condé Nast https://engineering.condenast.io/
 * Confluent https://www.confluent.io/blog
+* Convox https://convox.com/blog
 * Coolblue http://devblog.coolblue.nl/
 * Criteo http://engineering.criteolabs.com/
 * Crowdfire https://crowdfire.engineering/
+* Curalate http://engineering.curalate.com/
 
 #### D companies
 * Dailymotion http://engineering.dailymotion.com/
 * Data Artisans http://data-artisans.com/blog/
 * Databricks https://databricks.com/blog
 * DataFox http://eng.datafox.co/
-* DataRank http://engineering.datarank.com/
 * DeferPanic https://deferpanic.com/blog/
 * Deis https://deis.com/blog
 * Deliveroo http://deliveroo.engineering/
@@ -157,7 +160,7 @@
 * GoSquared https://engineering.gosquared.com/
 * Grammarly http://tech.grammarly.com/blog/index.html
 * Grofers https://lambda.grofers.com/
-* Grouper http://eng.joingrouper.com/
+* Grouper http://blog.joingrouper.com/
 * Groupon https://engineering.groupon.com/
 * Guardian https://www.theguardian.com/info/developer-blog
 * Gusto http://engineering.gusto.com/
@@ -170,14 +173,17 @@
 * Heroku https://engineering.heroku.com/
 * HireArt http://code.hireart.com/
 * Holiday Extras http://hungrygeek.holidayextras.co.uk/
+* HomeAway https://tech.homeaway.com/
 * Honeybadger http://blog.honeybadger.io/
 * Hootsuite http://code.hootsuite.com/
+* Hostinger https://www.hostinger.com/blog/engineering/
 * Hoteltonight http://engineering.hoteltonight.com/
 * Housing.com https://medium.com/engineering-housing
 * HubSpot http://product.hubspot.com/blog/topic/engineering
 * Huddle http://tldr.huddle.com/
 
 #### I companies
+* IBM developerWorks https://developer.ibm.com/dwblog/
 * IFTTT http://engineering.ifttt.com/
 * IMVU https://engineering.imvu.com/
 * Imaginea https://blog.imaginea.com/
@@ -275,6 +281,7 @@
 * Postmates https://blog.postmates.com/tagged/engineering
 * Prezi https://medium.com/prezi-engineering
 * Prolific Interactive http://blog.prolificinteractive.com/category/development/
+* PubNub: https://www.pubnub.com/blog/
 * PullReview http://blog.8thcolor.com/
 
 #### Q companies
@@ -307,13 +314,16 @@
 * Semaphore CI Community https://semaphoreci.com/community
 * Semaphore CI Engineering http://semaphoreci.com/blog/tags/engineering.html
 * Sensible http://blog.sensible.io/
+* Settled https://engineroom.settled.co.uk/
 * Shape Security http://engineering.shapesecurity.com/
 * Sharethis http://engineering.sharethis.com/
 * Shopify https://engineering.shopify.com
 * ShowMax https://tech.showmax.com
+* Shyp https://medium.com/shyp-engineering
 * Sift Science http://blog.siftscience.com/?category=Engineering
 * Simple https://www.simple.com/engineering
 * Sky Betting & Gaming http://engineering.skybettingandgaming.com/
+* Skyscanner http://codevoyagers.com/
 * Slack https://slack.engineering/
 * SlideShare https://engineering.linkedin.com/blog/topic/slideshare
 * Small Improvements https://tech.small-improvements.com/
@@ -324,6 +334,7 @@
 * SourceClear https://blog.sourceclear.com/
 * Speedledger http://engineering.speedledger.com/
 * Spotify https://labs.spotify.com/
+* Sqreen https://blog.sqreen.io/
 * Square https://corner.squareup.com/
 * Squarespace https://engineering.squarespace.com/
 * Stack Overflow https://stackoverflow.blog/engineering/
@@ -392,6 +403,7 @@
 
 #### X companies
 * XING https://devblog.xing.com/
+* Xmartlabs https://blog.xmartlabs.com/
 
 #### Y companies
 * Yahoo https://yahooeng.tumblr.com/
@@ -462,6 +474,7 @@
 * Chris Wellons http://nullprogram.com/
 * Clay McLeod http://blog.claymcleod.io/
 * Cocoa Is My Girlfriend http://www.cimgf.com/
+* CodeFX http://codefx.org
 * Code Better http://codebetter.com/
 * Code with style! http://codewithstyle.info/
 * Codrops https://tympanus.net/codrops/
@@ -525,7 +538,7 @@
 * Ian Sommerville http://iansommerville.com/systems-software-and-technology/
 * Idontgetoutmuch's Weblog https://idontgetoutmuch.wordpress.com/
 * Ievgen Kuzminov http://stdout.in/
-* Ilija Eftimov https://eftimov.net/
+* Ilija Eftimov http://ieftimov.com/
 * Ilya Grigorik https://www.igvita.com/
 * Ivan Ursul https://ivanursul.com/
 
@@ -536,6 +549,7 @@
 * James Hague http://prog21.dadgum.com/
 * James Long http://jlongster.com/archive
 * Jamis Buck http://weblog.jamisbuck.org/
+* Jan Lelis http://idiosyncratic-ruby.com/
 * Jay Fields http://blog.jayfields.com
 * Jeff Atwood https://blog.codinghorror.com/
 * Jeff Preshing http://preshing.com/
@@ -671,6 +685,7 @@
 
 #### V individuals
 * Vanilla Java http://vanillajava.blogspot.com/
+* Vlad Mihalcea https://vladmihalcea.com/
 
 #### W individuals
 * Wilfred Hughes http://www.wilfred.me.uk/
@@ -699,6 +714,9 @@
 
 #### I technologies
 * IPFS https://ipfs.io/blog/
+
+#### J technologies
+* jOOQ https://blog.jooq.org/
 
 #### K technologies
 * Klipse http://blog.klipse.tech/
